@@ -1,6 +1,7 @@
 
 
 room_fases = [
+	room_config,
 	room_2d,
 	room_3d,
 	room_raycast,
@@ -24,6 +25,7 @@ room_fases = [
 	]
 
 nome_fases = [
+	"CONFIG",
 	"2D",
 	"2D",
 	"2D",

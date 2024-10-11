@@ -22,7 +22,9 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"subwaysurfers.mp4","CopyToMask":-1,"filePath":"datafiles","name":"subwaysurfers.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -42,6 +44,7 @@
     {"id":{"name":"room_2d","path":"rooms/room_2d/room_2d.yy",},},
     {"id":{"name":"room_3d","path":"rooms/room_3d/room_3d.yy",},},
     {"id":{"name":"room_blendmodes","path":"rooms/room_blendmodes/room_blendmodes.yy",},},
+    {"id":{"name":"room_config","path":"rooms/room_config/room_config.yy",},},
     {"id":{"name":"room_dicasiniciantes","path":"rooms/room_dicasiniciantes/room_dicasiniciantes.yy",},},
     {"id":{"name":"room_drawbuffer","path":"rooms/room_drawbuffer/room_drawbuffer.yy",},},
     {"id":{"name":"room_espelhos","path":"rooms/room_espelhos/room_espelhos.yy",},},
@@ -95,6 +98,7 @@
     {"roomId":{"name":"room_otimizacoes","path":"rooms/room_otimizacoes/room_otimizacoes.yy",},},
     {"roomId":{"name":"room_rendering","path":"rooms/room_rendering/room_rendering.yy",},},
     {"roomId":{"name":"room_dicasiniciantes","path":"rooms/room_dicasiniciantes/room_dicasiniciantes.yy",},},
+    {"roomId":{"name":"room_config","path":"rooms/room_config/room_config.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

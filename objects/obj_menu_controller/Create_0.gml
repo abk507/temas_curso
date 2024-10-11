@@ -22,3 +22,26 @@ room_fases = [
 	room_drawbuffer,
 	room_dicasiniciantes
 	]
+
+nome_fases = [
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D",
+	"2D"
+	]

@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu_controller",
+  "%Name":"obj_2d_lista",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu_controller",
+  "name":"obj_2d_lista",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objects/menu.yy",
+    "name":"2d",
+    "path":"folders/Objects/2d.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_controller",
-    "path":"sprites/spr_controller/spr_controller.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

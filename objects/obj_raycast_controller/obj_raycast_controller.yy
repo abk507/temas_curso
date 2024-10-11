@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu_controller",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_raycast_controller",
+  "eventList":[],
   "managed":true,
-  "name":"obj_menu_controller",
+  "name":"obj_raycast_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objects/menu.yy",
+    "name":"raycast",
+    "path":"folders/Objects/raycast.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -34,5 +32,5 @@
     "path":"sprites/spr_controller/spr_controller.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

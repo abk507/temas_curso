@@ -1,17 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu_controller",
+  "%Name":"obj_menu_botao",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu_controller",
+  "name":"obj_menu_botao",
   "overriddenProperties":[],
   "parent":{
     "name":"menu",
     "path":"folders/Objects/menu.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_button",
+    "path":"objects/obj_parent_button/obj_parent_button.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,9 +34,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_controller",
-    "path":"sprites/spr_controller/spr_controller.yy",
+    "name":"spr_botao_tema",
+    "path":"sprites/spr_botao_tema/spr_botao_tema.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

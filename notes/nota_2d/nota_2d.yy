@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nota_2d",
+  "name":"nota_2d",
+  "parent":{
+    "name":"2d",
+    "path":"folders/Objects/2d.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

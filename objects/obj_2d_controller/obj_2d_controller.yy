@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu_button",
+  "%Name":"obj_2d_controller",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu_button",
+  "name":"obj_2d_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objects/menu.yy",
+    "name":"2d",
+    "path":"folders/Objects/2d.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent_button",
-    "path":"objects/obj_parent_button/obj_parent_button.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_controller",
+    "path":"sprites/spr_controller/spr_controller.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

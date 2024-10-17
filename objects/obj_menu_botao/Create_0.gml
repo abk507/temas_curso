@@ -10,5 +10,6 @@ efeito_transicao = 0
 
 draw_set_font(font_menu)
 
+
 event_inherited();
 

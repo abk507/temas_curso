@@ -64,6 +64,7 @@
     {"id":{"name":"room_vsync","path":"rooms/room_vsync/room_vsync.yy",},},
     {"id":{"name":"room_zfight","path":"rooms/room_zfight/room_zfight.yy",},},
     {"id":{"name":"scr_basico","path":"scripts/scr_basico/scr_basico.yy",},},
+    {"id":{"name":"spr_2d_layers","path":"sprites/spr_2d_layers/spr_2d_layers.yy",},},
     {"id":{"name":"spr_botao_tema_mask","path":"sprites/spr_botao_tema_mask/spr_botao_tema_mask.yy",},},
     {"id":{"name":"spr_botao_tema_passa","path":"sprites/spr_botao_tema_passa/spr_botao_tema_passa.yy",},},
     {"id":{"name":"spr_botao_tema","path":"sprites/spr_botao_tema/spr_botao_tema.yy",},},

@@ -1,4 +1,6 @@
 
+ygo = 0
+y_current = 0
 
 room_fases = [
 	room_config,

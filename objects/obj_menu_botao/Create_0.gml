@@ -1,8 +1,8 @@
 
 count = my_instance_index()
 
-image_xscale = 4
-image_yscale = image_xscale
+/*image_xscale = 4
+image_yscale = image_xscale*/
 efeito_cresce = 0
 efeito_crescendo = -1
 

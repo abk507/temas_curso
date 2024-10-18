@@ -32,6 +32,7 @@
   },
   "name":"temas_do_curso",
   "resources":[
+    {"id":{"name":"font_2d","path":"fonts/font_2d/font_2d.yy",},},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},},
     {"id":{"name":"nota_2d","path":"notes/nota_2d/nota_2d.yy",},},
     {"id":{"name":"obj_2d_controller","path":"objects/obj_2d_controller/obj_2d_controller.yy",},},
@@ -79,9 +80,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
+    {"roomId":{"name":"room_2d","path":"rooms/room_2d/room_2d.yy",},},
     {"roomId":{"name":"room_raycast","path":"rooms/room_raycast/room_raycast.yy",},},
     {"roomId":{"name":"room_skybox","path":"rooms/room_skybox/room_skybox.yy",},},
-    {"roomId":{"name":"room_2d","path":"rooms/room_2d/room_2d.yy",},},
     {"roomId":{"name":"room_3d","path":"rooms/room_3d/room_3d.yy",},},
     {"roomId":{"name":"room_blendmodes","path":"rooms/room_blendmodes/room_blendmodes.yy",},},
     {"roomId":{"name":"room_drawbuffer","path":"rooms/room_drawbuffer/room_drawbuffer.yy",},},

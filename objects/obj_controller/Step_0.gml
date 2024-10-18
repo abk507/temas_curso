@@ -12,6 +12,8 @@ else{
 }
 
 if keyboard_check_released(vk_escape){
-	if room = room_menu{ game_end() }
-	else{ passa_room = room_menu }
+	//if room = room_menu{
+		game_end()
+	/*}
+	else{ passa_room = room_menu }*/
 }

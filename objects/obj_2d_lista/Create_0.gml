@@ -1,3 +1,3 @@
 
-
-srf = surface_create(room_width, room_height)
+ygo = 0
+count = 0
